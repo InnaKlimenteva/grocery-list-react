@@ -4,20 +4,20 @@
 <hr>
 
 <h1>Grocery list</h1>
+<img src="grocery.png" width="150"/>
 
 ## Description
 **_Grocery list_** is an application for helping users remember essential items to buy
-<img src="grocery.png" width="150"/>
 
 ## 💻 Build with 
-- React
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 ## Usage
-- 🔶 Add items to your list 
+🔶 Add items to your list 
 
-- ✅ Mark items as purchased 
+✅ Mark items as purchased 
 
-- ❌ Remove unnecessary items 
+❌ Remove unnecessary items 
 
 ## Installation
 ```bash
