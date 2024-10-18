@@ -1,7 +1,8 @@
-<hr>
-### Did you again forgot to buy some food?
+
+## Did you again forgot to buy some food?
 <img src="https://media.giphy.com/media/3lx8diaPIXte6VwMLl/giphy.gif?cid=790b7611lgo1620qgpodh6ci6y685l8pk2d64xvmntvba91v&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
-<hr>
+
+#### Use this app then!
 
 <h1>Grocery list</h1>
 <img src="grocery.png" width="150"/>
